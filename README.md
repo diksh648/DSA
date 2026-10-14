@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/diksh648/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
+| [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
 | [2860-happy-students](https://github.com/diksh648/DSA/tree/master/2860-happy-students) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/diksh648/DSA/tree/master/0086-partition-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
