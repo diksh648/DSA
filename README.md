@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/diksh648/DSA/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/diksh648/DSA/tree/master/0093-restore-ip-addresses) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/diksh648/DSA/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/diksh648/DSA/tree/master/0093-restore-ip-addresses) |
 ## Depth-First Search
 |  |
 | ------- |
