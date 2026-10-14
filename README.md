@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/diksh648/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/diksh648/DSA/tree/master/0089-gray-code) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/diksh648/DSA/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/diksh648/DSA/tree/master/0089-gray-code) |
 ## Depth-First Search
 |  |
 | ------- |
