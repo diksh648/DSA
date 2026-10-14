@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/diksh648/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
 | [2860-happy-students](https://github.com/diksh648/DSA/tree/master/2860-happy-students) |
 ## Enumeration
 |  |
@@ -94,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/diksh648/DSA/tree/master/0112-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
