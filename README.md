@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/diksh648/DSA/tree/master/0066-plus-one) |
+| [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
 | [2860-happy-students](https://github.com/diksh648/DSA/tree/master/2860-happy-students) |
 | [2861-maximum-number-of-alloys](https://github.com/diksh648/DSA/tree/master/2861-maximum-number-of-alloys) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
