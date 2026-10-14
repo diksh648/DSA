@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/diksh648/DSA/tree/master/0148-sort-list) |
 | [2860-happy-students](https://github.com/diksh648/DSA/tree/master/2860-happy-students) |
 ## Enumeration
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/diksh648/DSA/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/diksh648/DSA/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -123,8 +125,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/diksh648/DSA/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/diksh648/DSA/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/diksh648/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/diksh648/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
