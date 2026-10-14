@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/diksh648/DSA/tree/master/0086-partition-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/diksh648/DSA/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
