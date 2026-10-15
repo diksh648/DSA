@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/diksh648/DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/diksh648/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/diksh648/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diksh648/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/diksh648/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/diksh648/DSA/tree/master/0162-find-peak-element) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/diksh648/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
 ## Tree
 |  |
