@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/diksh648/DSA/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/diksh648/DSA/tree/master/0093-restore-ip-addresses) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
 | [0670-maximum-swap](https://github.com/diksh648/DSA/tree/master/0670-maximum-swap) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
 | [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
 ## Divide and Conquer
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/diksh648/DSA/tree/master/0164-maximum-gap) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
