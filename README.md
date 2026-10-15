@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diksh648/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/diksh648/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/diksh648/DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/diksh648/DSA/tree/master/0164-maximum-gap) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
 | [2860-happy-students](https://github.com/diksh648/DSA/tree/master/2860-happy-students) |
 | [2861-maximum-number-of-alloys](https://github.com/diksh648/DSA/tree/master/2861-maximum-number-of-alloys) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/diksh648/DSA/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/diksh648/DSA/tree/master/0164-maximum-gap) |
 | [2860-happy-students](https://github.com/diksh648/DSA/tree/master/2860-happy-students) |
 ## Enumeration
 |  |
@@ -168,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/diksh648/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/diksh648/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/diksh648/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
