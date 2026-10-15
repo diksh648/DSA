@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/diksh648/DSA/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/diksh648/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0670-maximum-swap](https://github.com/diksh648/DSA/tree/master/0670-maximum-swap) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
+| [0670-maximum-swap](https://github.com/diksh648/DSA/tree/master/0670-maximum-swap) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
