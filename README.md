@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/diksh648/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/diksh648/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/diksh648/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/diksh648/DSA/tree/master/0085-maximal-rectangle) |
 ## Tree
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/diksh648/DSA/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/diksh648/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
 ## Divide and Conquer
@@ -201,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/diksh648/DSA/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/diksh648/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
