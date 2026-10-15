@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/diksh648/DSA/tree/master/0093-restore-ip-addresses) |
+| [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
 | [2860-happy-students](https://github.com/diksh648/DSA/tree/master/2860-happy-students) |
 | [2861-maximum-number-of-alloys](https://github.com/diksh648/DSA/tree/master/2861-maximum-number-of-alloys) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,4 +141,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/diksh648/DSA/tree/master/0148-sort-list) |
+## Hash Table
+|  |
+| ------- |
+| [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
