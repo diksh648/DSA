@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diksh648/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/diksh648/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
 | [2860-happy-students](https://github.com/diksh648/DSA/tree/master/2860-happy-students) |
 | [2861-maximum-number-of-alloys](https://github.com/diksh648/DSA/tree/master/2861-maximum-number-of-alloys) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diksh648/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/diksh648/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2861-maximum-number-of-alloys](https://github.com/diksh648/DSA/tree/master/2861-maximum-number-of-alloys) |
 ## Backtracking
 |  |
