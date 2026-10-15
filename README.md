@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/diksh648/DSA/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/diksh648/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/diksh648/DSA/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/diksh648/DSA/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/diksh648/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Quicksort
 |  |
 | ------- |
