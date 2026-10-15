@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/diksh648/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/diksh648/DSA/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/diksh648/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/diksh648/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/diksh648/DSA/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/diksh648/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/diksh648/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/diksh648/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 ## Trie
 |  |
 | ------- |
