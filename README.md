@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/diksh648/DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/diksh648/DSA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/diksh648/DSA/tree/master/0072-edit-distance) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/diksh648/DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/diksh648/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/diksh648/DSA/tree/master/0089-gray-code) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/diksh648/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
 ## Greedy
 |  |
