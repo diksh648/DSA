@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/diksh648/DSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/diksh648/DSA/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/diksh648/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/diksh648/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/diksh648/DSA/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
 | [0670-maximum-swap](https://github.com/diksh648/DSA/tree/master/0670-maximum-swap) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/diksh648/DSA/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/diksh648/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/diksh648/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
