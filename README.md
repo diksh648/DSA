@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/diksh648/DSA/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/diksh648/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/diksh648/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/diksh648/DSA/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/diksh648/DSA/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/diksh648/DSA/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/diksh648/DSA/tree/master/0093-restore-ip-addresses) |
