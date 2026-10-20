@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/diksh648/DSA/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/diksh648/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/diksh648/DSA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/diksh648/DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/diksh648/DSA/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/diksh648/DSA/tree/master/0072-edit-distance) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/diksh648/DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/diksh648/DSA/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
