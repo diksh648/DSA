@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/diksh648/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/diksh648/DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/diksh648/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/diksh648/DSA/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/diksh648/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/diksh648/DSA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/diksh648/DSA/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/diksh648/DSA/tree/master/0242-valid-anagram) |
 | [2860-happy-students](https://github.com/diksh648/DSA/tree/master/2860-happy-students) |
 ## Enumeration
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/diksh648/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/diksh648/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/diksh648/DSA/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
