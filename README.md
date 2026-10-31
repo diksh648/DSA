@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/diksh648/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/diksh648/DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/diksh648/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/diksh648/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/diksh648/DSA/tree/master/0089-gray-code) |
 ## Simulation
