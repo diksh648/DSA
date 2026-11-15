@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/diksh648/DSA/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/diksh648/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diksh648/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/diksh648/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/diksh648/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/diksh648/DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/diksh648/DSA/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/diksh648/DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/diksh648/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0670-maximum-swap](https://github.com/diksh648/DSA/tree/master/0670-maximum-swap) |
 | [2029-stone-game-ix](https://github.com/diksh648/DSA/tree/master/2029-stone-game-ix) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/diksh648/DSA/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/diksh648/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/diksh648/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/diksh648/DSA/tree/master/0242-valid-anagram) |
@@ -239,4 +242,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/diksh648/DSA/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/diksh648/DSA/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/diksh648/DSA/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/diksh648/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
