@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/diksh648/DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/diksh648/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diksh648/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/diksh648/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/diksh648/DSA/tree/master/0162-find-peak-element) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/diksh648/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/diksh648/DSA/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/diksh648/DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/diksh648/DSA/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
